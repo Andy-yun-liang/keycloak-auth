@@ -47,6 +47,7 @@ volumes:
 # .env for production Keycloak
 POSTGRES_PASSWORD=your-secret-here
 KC_ADMIN_PASSWORD=your-admin-password
+KC_ADMIN_USER=your-admin-user
 KC_HOSTNAME=subdomain.domain
 ```
 
